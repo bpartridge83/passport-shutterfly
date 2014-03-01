@@ -1,0 +1,32 @@
+{
+  "name": "passport-shutterfly",
+  "version": "0.0.0",
+  "description": "Shutterfly authentication for Passport.",
+  "main": "./lib/passport-shutterfly",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bpartridge83/passport-shutterfly.git"
+  },
+  "keywords": [
+    "passport",
+    "shutterfly",
+    "auth",
+    "authentication"
+  ],
+  "author": {
+    "name": "Brian Partridge",
+    "email": "contact@brianpartridge.com",
+    "url": "http://brianpartridge.com/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bpartridge83/passport-shutterfly/issues"
+  },
+  "homepage": "https://github.com/bpartridge83/passport-shutterfly",
+  "dependencies": {
+    "passport-oauth": "~1.0.0"
+  }
+}
